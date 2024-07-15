@@ -46,3 +46,19 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+<html> 
+	<hi> 
+		This is the blog highlighting my education in the field of IT and Cybersecurity
+	<hi> 
+	<body> 
+		<h2>About me</h2>
+		<p>
+			I am a student of Western Governors University studying cybersecurity and information assurance while also looking for a entry level job in IT.
+		</p>
+		<h2>What am I working on</h2>
+		<p>
+			I am learning about network security while also starting to learn about bug bounty in my free time.
+		</p>
+	</body>
+<html>
